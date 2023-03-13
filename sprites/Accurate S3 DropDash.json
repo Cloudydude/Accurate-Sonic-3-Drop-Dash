@@ -1,10 +1,10 @@
 {
-	"sonic_dropdash_0":  { "File": "Accurate S3 DropDash.bmp", "Rect": "10,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_1":  { "File": "Accurate S3 DropDash.bmp", "Rect": "59,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_2":  { "File": "Accurate S3 DropDash.bmp", "Rect": "108,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_3":  { "File": "Accurate S3 DropDash.bmp", "Rect": "157,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_4":  { "File": "Accurate S3 DropDash.bmp", "Rect": "206,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_5":  { "File": "Accurate S3 DropDash.bmp", "Rect": "255,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_6":  { "File": "Accurate S3 DropDash.bmp", "Rect": "108,15,30,30", "Center": "16,16" },
-	"sonic_dropdash_7":  { "File": "Accurate S3 DropDash.bmp", "Rect": "353,15,30,30", "Center": "16,16" }
+	"sonic_dropdash_0":  { "File": "Accurate S3 DropDash.bmp", "Rect": "10,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_1":  { "File": "Accurate S3 DropDash.bmp", "Rect": "59,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_2":  { "File": "Accurate S3 DropDash.bmp", "Rect": "108,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_3":  { "File": "Accurate S3 DropDash.bmp", "Rect": "157,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_4":  { "File": "Accurate S3 DropDash.bmp", "Rect": "206,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_5":  { "File": "Accurate S3 DropDash.bmp", "Rect": "255,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_6":  { "File": "Accurate S3 DropDash.bmp", "Rect": "108,15,30,30", "Center": "15,15" },
+	"sonic_dropdash_7":  { "File": "Accurate S3 DropDash.bmp", "Rect": "353,15,30,30", "Center": "15,15" }
 }
