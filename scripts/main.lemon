@@ -4,7 +4,7 @@ function u64 Standalone.getModdedAnimationSpriteKey(u8 character, u16 animationS
 	{
 		u8 anim = ((level.framecounter >> 1) & 7)
 		if (char.state == char.state.SONIC_DROPDASH)
-			return key = stringformat("sonic_dropdash_%d", anim)
+			return stringformat("sonic_dropdash_%d", anim)
 	}
 
 	return base.Standalone.getModdedAnimationSpriteKey(character, animationSpriteEx)
