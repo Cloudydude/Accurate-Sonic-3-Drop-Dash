@@ -1,6 +1,5 @@
 function u64 Standalone.getModdedAnimationSpriteKey(u8 character, u16 animationSpriteEx)
 {
-	u64 key
 	if (character == CHARACTER_SONIC && u8[0xffffe654] == 0)
 	{
 		u8 anim = ((level.framecounter >> 1) & 7)
